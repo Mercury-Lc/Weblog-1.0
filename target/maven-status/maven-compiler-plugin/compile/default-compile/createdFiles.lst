@@ -1,0 +1,6 @@
+cn\itcast\controller\IndexController.class
+cn\itcast\mapper\TAvgpvNumMapper.class
+cn\itcast\pojo\TAvgpvNum.class
+cn\itcast\service\impl\AvgPvServiceImpl.class
+cn\itcast\pojo\AvgToPageBean.class
+cn\itcast\service\AvgPvService.class
